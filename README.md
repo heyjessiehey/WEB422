@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # web422 A1 and A2
 
 <Assignment 1>
