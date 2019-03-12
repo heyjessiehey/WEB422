@@ -29,10 +29,10 @@ class Projects extends Component{
                 <table className="table table-striped table-bordered">
                     <thead>
                         <tr>
-                            <td>Name</td>
-                            <td>Description</td>
-                            <td>Start Date</td>
-                            <td>End Date</td>
+                            <th>Name</th>
+                            <th>Description</th>
+                            <th>Start Date</th>
+                            <th>End Date</th>
                         </tr>
                     </thead>
                     <tbody>

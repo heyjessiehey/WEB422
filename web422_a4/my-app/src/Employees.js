@@ -29,11 +29,11 @@ class Employees extends Component{
             <table className="table table-striped table-bordered">
                 <thead>
                     <tr>
-                        <td>Name & Position</td>
-                        <td>Address</td>
-                        <td>Phone Num</td>
-                        <td>Hire Date</td>
-                        <td>Salary Bonus</td>
+                        <th>Name & Position</th>
+                        <th>Address</th>
+                        <th>Phone Num</th>
+                        <th>Hire Date</th>
+                        <th>Salary Bonus</th>
                     </tr>
                 </thead>
                 <tbody>

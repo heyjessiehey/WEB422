@@ -28,10 +28,10 @@ class Teams extends Component{
                 <table className="table table-striped table-bordered">
                     <thead>
                         <tr>
-                            <td>Name</td>
-                            <td>Projects</td>
-                            <td>Employees</td>
-                            <td>Team Lead</td>
+                            <th>Name</th>
+                            <th>Projects</th>
+                            <th>Employees</th>
+                            <th>Team Lead</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -39,11 +39,11 @@ class Teams extends Component{
                             return(
                               <tr key ={element._id}>
                                 <td>{element.TeamName}</td>
-                                <td>{element.Projects.map(e => {
+                                <td><ul>{element.Projects.map(e => {
                                     return(
                                         <li key={e._id}>{e.ProjectName}</li>
                                     )
-                                })}</td>
+                                })}</ul></td>
                                 <td>{element.Employees.length} Employees</td>
                                 <td>{element.TeamLead.FirstName} {element.TeamLead.LastName}</td>
                               </tr>  
