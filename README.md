@@ -11,8 +11,10 @@ The JavaScript language is used, with widely-used and powerful tools and framewo
 - [x] Assignment 3
    - Knockout.JS
    - Bootstrap (3), jQuery, Knockout (and the "mapping" plugin), and a jQuery Plugin - "Multiple Select"
-- [ ] Assignment 4
+- [x] Assignment 4
    - React.JS
-- [ ] Assignment 5
+- [x] Assignment 5
+   - Angular
+   - Routing, Services, Classes, Bootstrap, fetching data - subscribe, Observable
 - [ ] Assignment 6
 
