@@ -16,5 +16,9 @@ The JavaScript language is used, with widely-used and powerful tools and framewo
 - [x] Assignment 5
    - Angular
    - Routing, Services, Classes, Bootstrap, fetching data - subscribe, Observable
-- [ ] Assignment 6
+- [x] Assignment 6
+   - Angular 
+   - Based on Assignment 5
+   - Routing, services, deployment, filter, form validation
+   - routing: order of paths is matter!! **fixed routing problem** 
 
